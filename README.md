@@ -4,7 +4,7 @@ Automated sync for perforce projects. Uses AES encryption to protect the login c
 
 ## Getting Started
 
-Run setup.bat
+Run setup.bat  
 Run download.bat as and when required or set up a task in scheduler for the same.
 
 ## License
