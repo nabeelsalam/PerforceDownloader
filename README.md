@@ -9,7 +9,7 @@ Run download.bat as and when required or set up a task in scheduler for the same
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
